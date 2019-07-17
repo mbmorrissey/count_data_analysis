@@ -357,7 +357,7 @@ MBM is supported by a University Research Fellowship from the Royal Society (Lon
 
 ## Data accessibility
 
-Code to conduct all simulations, genreate all figures, and compile the manuscript is provided as an online supplement to this article.
+Code to conduct all simulations, genreate all figures, and compile the manuscript is provided in a repository at <tt>https://github.com/mbmorrissey/count_data_analysis</tt>.
 
 ## References
 
